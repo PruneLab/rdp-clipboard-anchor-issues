@@ -41,8 +41,8 @@
 本仓库主要用于收集用户的 Bug 反馈与新功能建议。
 *(注：核心应用程序为闭源软件。)*
 
-* 🐛 **[提交 Bug 反馈](../../issues/new)**：如果您发现了任何异常，请告诉我们！
-* ✨ **[提交功能建议](../../issues/new)**：如果您有任何能让应用变得更好的点子，欢迎提出。
+* 🐛 **[提交 Bug 反馈](https://github.com/PruneLab/rdp-clipboard-anchor-issues/issues/new)**：如果您发现了任何异常，请告诉我们！
+* ✨ **[提交功能建议](https://github.com/PruneLab/rdp-clipboard-anchor-issues/issues/new)**：如果您有任何能让应用变得更好的点子，欢迎提出。
 
 ---
 

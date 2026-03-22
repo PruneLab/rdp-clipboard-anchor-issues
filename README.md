@@ -41,8 +41,8 @@ For more details, please review our [Privacy Policy](https://prunelab.net/produc
 This repository is dedicated to **Issue Tracking** and **Feature Requests** for the app. 
 *(Note: The core application is closed-source.)*
 
-* 🐛 **[Report a Bug](../../issues/new)**: Found a glitch? Let us know!
-* ✨ **[Request a Feature](../../issues/new)**: Have an idea to make the app even better? 
+* 🐛 **[Report a Bug](https://github.com/PruneLab/rdp-clipboard-anchor-issues/issues/new)**: Found a glitch? Let us know!
+* ✨ **[Request a Feature](https://github.com/PruneLab/rdp-clipboard-anchor-issues/issues/new)**: Have an idea to make the app even better? 
 
 ---
 
