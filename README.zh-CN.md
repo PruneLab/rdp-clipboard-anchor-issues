@@ -1,5 +1,6 @@
 # ⚓ RDP Clipboard Anchor (远程桌面剪贴板锚点)
 
+🌐 **官方网站:** [PruneLab - RDP Clipboard Anchor](https://prunelab.net/products/rdp-clipboard-anchor/)
 <p align="left">
   <a href="https://apps.microsoft.com/store/detail/9PNGHSMN43W9">
     <img src="https://img.shields.io/badge/微软商店-立即获取-0078D7?style=for-the-badge&logo=windows" alt="Get it from Microsoft Store">
@@ -31,6 +32,8 @@
 ### 🛡️ 100% 纯本地与绝对安全
 本软件承诺 100% 纯本地运行，无任何联网权限，零后台遥测。此外，它还能智能识别并自动忽略来自 1Password 等主流密码管理器的复制动作。你的隐私，完全由你掌控。
 
+欲了解更多详情，请审阅我们的[隐私政策](https://prunelab.net/zh/products/rdp-clipboard-anchor/privacy.html)。
+
 ---
 
 ## 🛠️ 问题反馈与建议
@@ -49,3 +52,7 @@
 - [x] **v1.1.0.0**: 交互体验打磨、智能缓存管理、可靠性提升 *(已发布)*
 - [ ] **v1.2.0.0**: 多语言支持 (i18n) - *首批计划：繁体中文、日语、德语。*
 - [ ] **v1.2.0.0+**: 全局搜索、图片/长文本快速预览、条目固定与置顶、全局快捷键支持。
+
+---
+
+🏠 **探索更多强大的桌面工具，请访问 [prunelab.net](https://prunelab.net)。**

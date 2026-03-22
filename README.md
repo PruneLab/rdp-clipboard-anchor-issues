@@ -1,5 +1,6 @@
 # ⚓ RDP Clipboard Anchor
 
+🌐 **Official Website:** [PruneLab - RDP Clipboard Anchor](https://prunelab.net/products/rdp-clipboard-anchor/)
 <p align="left">
   <a href="https://apps.microsoft.com/store/detail/9PNGHSMN43W9">
     <img src="https://img.shields.io/badge/Get_it_from-Microsoft_Store-0078D7?style=for-the-badge&logo=windows" alt="Get it from Microsoft Store">
@@ -31,6 +32,8 @@ Beyond saving your remote sessions, it is a powerhouse replacement for the nativ
 ### 🛡️ 100% Offline & Secure
 Your clipboard often contains highly sensitive information. This application operates entirely locally with **zero internet access and zero telemetry**. It intelligently respects your privacy by automatically ignoring temporary clipboard events from major password managers (like 1Password). What you copy stays strictly under your control.
 
+For more details, please review our [Privacy Policy](https://prunelab.net/products/rdp-clipboard-anchor/privacy.html).
+
 ---
 
 ## 🛠️ Feedback & Issue Tracking
@@ -49,3 +52,7 @@ We are actively developing and polishing the app:
 - [x] **v1.1.0.0**: UX Polish, Smart Cache Management, Enhanced Reliability *(Released!)*
 - [ ] **v1.2.0.0**: Multi-language Support (i18n) - *Traditional Chinese, Japanese, German.*
 - [ ] **v1.2.0.0+**: Global Search, Quick Preview for images/text, Pin favorite items, and Keyboard Shortcuts.
+
+---
+
+🏠 **Discover more powerful desktop tools at [prunelab.net](https://prunelab.net).**
